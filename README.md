@@ -70,6 +70,7 @@ All entries are open source.
 
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - Large curated collection of Model Context Protocol servers.
 - [Awesome A2A](https://github.com/ai-boost/awesome-a2a) - Curated resources, tools, servers, and clients for the A2A protocol.
+- [Awesome AI Agents](https://github.com/ianwieds/awesome-ai-agents) - Curated list of agent frameworks, browser and computer-use agents, tools, protocols and research.
 
 ## Contributing
 
